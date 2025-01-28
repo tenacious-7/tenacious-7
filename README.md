@@ -60,3 +60,6 @@ I'm a curious and driven Software Developer with nearly 2 years of experience in
 ---
 
 🎉 **Let’s build something amazing together while learning along the way!**
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=tenacious-7&color=blue)
+
